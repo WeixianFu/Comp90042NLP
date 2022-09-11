@@ -4,11 +4,11 @@ import json
 import time
 import sys
 
-consumer_key = 'rAr4v8Znj20Yvzgk7k5zXQQ4F'
-consumer_key_secret = 'EqfAVWH5lIvbnfIu9gSTFkJPM4a2X0tlpJjV8NZFK3TOdCpGB9'
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAOk4bwEAAAAAl28%2FIuPszW5A9NySsBir4ZRfCvo%3DQvOGVBW3jF1NPD2YmJcb4cfOLiauEZlxqb91yaBK4t1hhZmWQq'
-access_token = '1517815216582848512-5Nb9mndTHNcR90xPzEjR5BbGIbNenJ'
-access_token_secret = 'hDDDakualeH66yFYLv5zUkAXZ6oiAZx80epVVRd9shwyA'
+consumer_key = ''
+consumer_key_secret = ''
+bearer_token = ''
+access_token = ''
+access_token_secret = ''
 
 
 def get_ID_list(txtPath):
